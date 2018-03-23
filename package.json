@@ -1,0 +1,24 @@
+{
+  "name": "vue-adblock",
+  "version": "0.0.1",
+  "description": "vuejs adblock detection",
+  "main": "adblock.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidwroche/vue-adblock.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "component"
+  ],
+  "author": "David Roche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidwroche/vue-adblock/issues"
+  },
+  "homepage": "https://github.com/davidwroche/vue-adblock#readme"
+}
