@@ -16,7 +16,6 @@ export default {
   },
   mounted: function() {
     var self = this;
-    console.log(self);
     var vis = self.$refs.infoBox.clientHeight;
 
     if (vis > 0) {
